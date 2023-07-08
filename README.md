@@ -31,6 +31,11 @@ Welcome to fullstack ecommerce web application where products are being ordered 
   * next-auth - the best way add authentication to next.js apps
 
 
+# app illustration pictures
+![Screenshot]("C:\Users\lenovo\Desktop\project-image[1].png")
+
+
+
 # Getting Started
 Visit https://nextjs.org/learn to get started with Next.js.
 
