@@ -26,15 +26,18 @@ Welcome to fullstack ecommerce web application where products are being ordered 
   * React.js
   * NoSQL Mongodb database
   * Node.js
+
   * Styled components for the frontend app
   * axios - most popular lib for doing api requests
   * next-auth - the best way add authentication to next.js apps
 
 
 # app illustration pictures
-![My Image](..lenovo/Desktop/project-image[1].png)
 
-
+<img width="947" alt="project-image 0" src="https://github.com/MohammedKhrishi/onlineMarket-ecommerce-nextjs/assets/67297080/5a948d06-db0a-4cff-a882-ec2c5a0d9134">
+<img width="959" alt="project-image 1" src="https://github.com/MohammedKhrishi/onlineMarket-ecommerce-nextjs/assets/67297080/66fff16c-cac1-4be2-9f2a-03c7d41e3579">
+<img width="960" alt="project-image 2" src="https://github.com/MohammedKhrishi/onlineMarket-ecommerce-nextjs/assets/67297080/3cb984ce-f2e0-43f5-814c-9b8b98aa670c">
+<img width="632" alt="project-image 4" src="https://github.com/MohammedKhrishi/onlineMarket-ecommerce-nextjs/assets/67297080/9c73efbd-e1f0-4686-991a-4464062166b6">
 
 # Getting Started
 Visit https://nextjs.org/learn to get started with Next.js.
