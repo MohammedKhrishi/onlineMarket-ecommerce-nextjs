@@ -32,7 +32,7 @@ Welcome to fullstack ecommerce web application where products are being ordered 
 
 
 # app illustration pictures
-![Screenshot]("C:\Users\lenovo\Desktop\project-image[1].png")
+<img src="C:\Users\lenovo\Desktop\project-image[1].png" alt="Alt text" title="Optional title">
 
 
 
